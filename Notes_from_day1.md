@@ -26,4 +26,43 @@ Code hosting platform for version platform/reposiory for versipn control and col
 
 It is private but free
 
-"like a dropbox that undertsands git"
+"like a dropbox that understands git"
+
+
+
+### Files and Files system
+
+
+
+### Hands-on
+
+
+
+#### Preparation Steps
+
+
+
+#### Git Commands
+
+```bash
+git add
+```
+
+```shell
+git edit
+```
+
+add an image:
+
+Type ponto de exclamação, parentesis recto abre e fecha, abre parentesis
+
+
+
+![](/home/jxavier/Documents/Git_Course/Git_day1/git_mechanics.png)
+
+
+
+
+
+
+
